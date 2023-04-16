@@ -4,6 +4,7 @@ Laboratorio #2 - Robótica Industrial, entradas y salidas..
 
 Nombres: Jhon Nelson Cáceres Leal
          Valentina Cruz De Paula
+         Oscar Urrego
 
 El presente repositorio posee el código RAPID, y los videos tanto de simulación realizada en RobotStudio, como el de práctica grabado en el LabSIR con el módulo existente del controlador IRC5.
 En esta práctica se desarrolló un código RAPID capaz de utilizar entradas y salidas digitales.
@@ -32,6 +33,12 @@ Se obtuvo el resultado deseado, debido a que según las señales de entradas ing
 ###  Video de la simulación :
 
 https://user-images.githubusercontent.com/38961990/232258898-511849ef-9918-475a-a583-de83846e2d1f.mp4
+
+###  Video de la práctica:
+
+
+
+https://user-images.githubusercontent.com/38961990/232259542-207493a7-0cb3-4716-83c4-78be967caa39.mp4
 
 
 
